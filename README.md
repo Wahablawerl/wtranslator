@@ -1,4 +1,4 @@
-### wtranslato
+## DEEP TRANSLATE
 
 A website that let you translate do instant translation with 90+ language support
 
@@ -8,4 +8,4 @@ A website that let you translate do instant translation with 90+ language suppor
 - **90+ language support**
 - **progressive web app**
 - 
-see [live demo](https://wtranslate-app.netlify.com)
+see [live demo](https://deeptranslate.netlify.app)
